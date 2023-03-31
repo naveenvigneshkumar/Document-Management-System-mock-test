@@ -3,5 +3,7 @@ MONGO_DB = mongodb://127.0.0.1/document_managment
 MONGO_DB_TEST = mongodb://127.0.0.1/document_managment_test
 TEST_SUIT = true
 JWT = LSLR7RLOYG8H5qwSVNQ6
+REFRESH_JWT = vnYpnivGGBEhTxJLuzt8
 EMAIL = naveenaspiresys123@gmail.com
 PASSWORD = zjyavgoadovtsoyb
+NODE_ENV = prod
