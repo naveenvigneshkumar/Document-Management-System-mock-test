@@ -22,7 +22,7 @@
 
 **Server:** Node, Express
 **DB:** Mongo DB
-**Testing :** Jest
+**Testing :** Jest and Mockingoose
 
 
 ## Installation
